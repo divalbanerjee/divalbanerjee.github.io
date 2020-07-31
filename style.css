@@ -1,0 +1,39 @@
+body {
+	background-color:#000000;
+	background-image: url('resources/divalbg.png');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: 50%, 50%;
+	background-size: 50% auto;
+}
+
+.banner{
+	text-align: center;
+}
+
+.background-image {
+	position: absolute;
+	left: 700px;
+	top: -38px;
+}
+
+h1 {
+	font-family: Helvetica;
+	font-style: normal;
+	font-weight: 300;
+	font-size: 54px;
+	letter-spacing: 0.12em;
+	color: #FFFFFF;
+}
+
+h2 {
+	font-family: Helvetica;
+	font-style: normal;
+	font-size:32px;
+	color: #FFFFFF;
+}
+
+
+
+
+
